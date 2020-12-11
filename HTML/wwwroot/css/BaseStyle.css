@@ -40,7 +40,7 @@ nav {
 
 section {
     float: left;
-    width: 680px;
+    width: 66%;
     height: 100%;
     background-color: gold;
 
@@ -83,9 +83,9 @@ p {
 aside {
     background-color: beige;
     float: left;
-    padding-left: 100px;
-    padding-right: 90px;
-    padding-bottom: 308px;
+    padding-left: 9%;
+    padding-right: 92px;
+    padding-bottom: 268px;
 }
 
 .border {
