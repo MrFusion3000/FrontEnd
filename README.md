@@ -1,2 +1,2 @@
 # FrontEnd
-Exercise 5-8 in C# - HTML, CSS, Bootstrap, JavaScript.
+Exercise 5-7 in C# - HTML, CSS, Bootstrap.
